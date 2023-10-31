@@ -57,6 +57,6 @@ Happy coding and welcome to the Food Manager community!
 ---
 Project By - QuanHe Ma (https://github.com/QuanHe Ma)
 
-Maintained By - Sahil, Technical Head Open Source Chandigarh (https://github.com/Sa2003hil)
+
 
 
