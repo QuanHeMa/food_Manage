@@ -4,6 +4,7 @@ Feel free to contribute! 🌈✨
 
 food_Manage is an open-source web platform that allows users to Search and buy rich food, creating a collaborative space for food enthusiasts.
 
+![Uploading QQ图片20231031141832.png…]()
 
 
 ## Features
