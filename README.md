@@ -5,7 +5,16 @@ Feel free to contribute! 🌈✨
 food_Manage is an open-source web platform that allows users to Search and buy rich food, creating a collaborative space for food enthusiasts.
 
 
+## Usage
 
+- **First log in to the system. If you don’t have an account, you can register an account first.
+- 
+- **Then enter the project, search for the food you want to buy and enter the checkout
+  
+- **Dishes query: Users can search for dishes by keywords, sort and filter by price, sales volume, etc.
+
+- **Administrators can add food to the project and can also add quantities
+  
 
 ## Features
 
@@ -18,6 +27,13 @@ food_Manage is an open-source web platform that allows users to Search and buy r
 - **Purchase items: Users can add items to the shopping cart and complete the purchase process.
 
 - **Order management: Users can view historical order records and order details.
+
+  
+## Rules for Contributions
+
+1. **Requires: oracle database, tomcat10, jdk18
+   
+2. **Download and unzip the project and run the browser.exe program
 
 
 ## Rules for Contributions
