@@ -29,7 +29,7 @@ food_Manage is an open-source web platform that allows users to Search and buy r
 - **Order management: Users can view historical order records and order details.
 
   
-## Rules for Contributions
+## Install
 
 1. **Requires: oracle database, tomcat10, jdk18
    
