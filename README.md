@@ -8,7 +8,7 @@ food_Manage is an open-source web platform that allows users to Search and buy r
 ## Usage
 
 - **First log in to the system. If you don’t have an account, you can register an account first.
-- 
+  
 - **Then enter the project, search for the food you want to buy and enter the checkout
   
 - **Dishes query: Users can search for dishes by keywords, sort and filter by price, sales volume, etc.
@@ -19,7 +19,7 @@ food_Manage is an open-source web platform that allows users to Search and buy r
 ## Features
 
 - **User registration and login: Users can register a new account or log in to the system using an existing account
-- 
+  
 - **Dishes management: Users can upload pictures, introductions, prices and sales information of dishes, and edit and delete dishes.
 
 - **Dishes query: Users can search for dishes by keywords, sort and filter by price, sales volume, etc.
